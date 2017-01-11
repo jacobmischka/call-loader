@@ -1,0 +1,9 @@
+{
+  "name": "call-loader",
+  "version": "1.0.0",
+  "description": "Calls an exported function. Very similar to apply-loader, but works with ECMAScript modules instead.",
+  "main": "index.js",
+  "repository": "git@github.com:jacobmischka/call-loader.git",
+  "author": "Jacob Mischka <jacobmischka@gmail.com>",
+  "license": "MIT"
+}
